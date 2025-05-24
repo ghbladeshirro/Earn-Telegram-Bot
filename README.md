@@ -1,3 +1,3 @@
-aiogram Telegramm Bot with SQL, ByBit API
+aiogram Telegram Bot with SQL, ByBit API
 
-![bandicam 2025-05-24 22-41-21-900](https://github.com/user-attachments/assets/836f8899-4ca7-40de-a14d-d35875a2f941)
+![bot](https://github.com/user-attachments/assets/836f8899-4ca7-40de-a14d-d35875a2f941)
